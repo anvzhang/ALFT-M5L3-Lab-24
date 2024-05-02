@@ -43,4 +43,4 @@ let festivalSchedule = headliners.concat(firstSetList);
 console.log([...festivalSchedule]);
 
 let scheduleString = festivalSchedule.join(", ");
-console.log(scheduleString)
+console.log(scheduleString);
